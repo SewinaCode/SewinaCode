@@ -1,16 +1,22 @@
-### Hi there 👋
+Hello! 👋 My name is Sellyna (Se-le-na)
 
-<!--
-**SewinaCode/SewinaCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am apart of the career changer group - making a switch to tech, specifying in software development.
 
-Here are some ideas to get you started:
+In the exploration in software development, I found my interest and passion in Front End with a goal to build mobile applications in the future. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have recently completed a Full Stack Developer course that required me to learn React JS, Node & Express JS and MYSQL. 
+- I learned to fetch data from a custom database made in MYSQL workbench. 
+- I am in the middle of an Advance Developer course by Mission Ready HQ
+
+Technologies I want and aim to learn:
+- 🦋 Typescript
+- 🎀 Scss/Sass
+- 🍀 Vue JS
+- 🍊 Swift (Hopefully...)
+
+----------------------------------------------
+
+Fun fact about me:
+I build custom keyboards and bookbind in my free time AND I LOVE CATS 🐈 🐈‍⬛ 
+
+
