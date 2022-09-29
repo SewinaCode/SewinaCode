@@ -1,22 +1,19 @@
 Hello! 👋 My name is Sellyna (Se-le-na)
 
-I am apart of the career changer group - making a switch to tech, specifying in software development.
+I am a developer with a passion for building, collaboration and learning. 
 
-In the exploration in software development, I found my interest and passion in Front End with a goal to expand my specialty towards mobile applications in the future. 
+My strengths resides in front end development using React JS and Sass in projects to build interfaces and their functionalities, as well as, making the connection to fetch data using Node & Express Js. Although my strength is in front end, I have a keen interest to learn and upskill in back end development. 
 
-- I have recently completed a Full Stack Developer course that required me to learn React JS, Node & Express JS and MYSQL. 
-- I learned to fetch data from a custom database made in MYSQL workbench. 
-- I am in the middle of an Advance Developer course by Mission Ready HQ
+I have been studying in Mission Ready where I have successfully completed both Level 4 (Full Stack Developer) and Level 5 (Advance Software Developer). Soon I will be starting my Level 6 industry placement where I will be learning more about Java.
 
 Technologies I want and aim to learn:
 - 🦋 Typescript
-- 🎀 Scss/Sass
+- 🎀 Scss/Sass - used Sass in my final project in Mission Ready!
 - 🍀 Vue JS
 - 🍊 Swift (Hopefully...)
+- ☕ Java - Soon....
 
 ----------------------------------------------
 
 Fun fact about me:
 I build custom keyboards and bookbind in my free time AND I LOVE CATS 🐈 🐈‍⬛ 
-
-
