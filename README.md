@@ -11,7 +11,7 @@ Technologies I want and aim to learn:
 - 🎀 Scss/Sass - used Sass in my final project in Mission Ready!
 - 🍀 Vue JS
 - 🍊 Swift (Hopefully...)
-- ☕ Java - Soon....
+- 🔮 .NET
 
 ----------------------------------------------
 
