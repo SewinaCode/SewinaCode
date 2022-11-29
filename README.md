@@ -8,7 +8,7 @@ I have been studying in Mission Ready where I have successfully completed both L
 
 Technologies I want and aim to learn:
 - 🦋 Typescript
-- 🎀 Scss/Sass - used Sass in my final project in Mission Ready!
+- 🎀 React Native
 - 🍀 Vue JS
 - 🍊 Swift (Hopefully...)
 - 🔮 .NET
