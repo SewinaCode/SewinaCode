@@ -6,6 +6,8 @@ My strengths resides in front end development using React JS and Sass in project
 
 I have been studying in Mission Ready where I have successfully their accelerator courses, along with an 10-week internship placement. 
 
+Currently Learning: C#
+
 Technologies I want and aim to learn:
 - 🦋 Typescript
 - 🎀 React Native
