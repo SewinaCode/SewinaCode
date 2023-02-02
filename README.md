@@ -1,6 +1,6 @@
 Hello! 👋 My name is Sellyna (Se-le-na)
 
-I am a developer with a passion for building, collaboration and continious learning. 
+I am a developer with a passion for building, collaboration and continuous learning. 
 
 Currently Learning: C#
 
