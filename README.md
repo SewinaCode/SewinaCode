@@ -9,7 +9,6 @@ Technologies I want and aim to learn:
 - 🎀 React Native
 - 🍀 Vue JS
 - 🍊 Swift (Hopefully...)
-- 🔮 .NET
 
 ----------------------------------------------
 
