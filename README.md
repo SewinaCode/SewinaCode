@@ -8,7 +8,7 @@ Technologies I want and aim to learn:
 - 🦋 Typescript
 - 🎀 React Native
 - 🍀 Vue JS
-- 🍊 Swift (Hopefully...)
+- 🍊 Swift 
 
 ----------------------------------------------
 
