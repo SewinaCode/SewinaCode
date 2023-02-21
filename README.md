@@ -2,7 +2,7 @@ Hello! 👋 My name is Sellyna (Se-le-na)
 
 I am a developer with a passion for building, collaboration and continuous learning. 
 
-Currently Learning: C#
+Currently: building my portfolio/personal website!
 
 Technologies I want and aim to learn:
 - 🦋 Typescript
